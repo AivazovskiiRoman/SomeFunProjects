@@ -1,1 +1,1 @@
-Initial commit
+# Some fun projects: HTML/CSS and JavaScript
